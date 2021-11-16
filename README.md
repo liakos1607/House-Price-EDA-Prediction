@@ -1,0 +1,3 @@
+# House-Price-EDA-Prediction
+The project is about building a model that predicts the price of sold houses. The target is to explore the given data, process them as you see fit, visualize them with charts and plots and build a machine learning model using scikit-learn python library. 
+The data was taken from King County.As a first step with heatmap and some plots and charts i explore the data and see the relation between price and other variables and how much are related.After the Exploration Data Analysis is completed i built several machine learning regression models to predict the price with high accuracy and low overfitting.Last but not least are propoesed solutions to real estates to increase their profit.
